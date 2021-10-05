@@ -33,6 +33,6 @@ Keep in mind that, when using atomic expressions as is done in this example, non
 
 ## 4. Explain analyze
 explain analyze is a postgresql command used like this: `explain analyze select * from table where condition` and it 
-experiment with [indeces](https://www.postgresql.org/docs/9.3/indexes.html) and use explain analyze to compare the preformance of sql statements. 
+experiment with [indeces](https://www.postgresql.org/docs/13/indexes.html) and use explain analyze to compare the preformance of sql statements. 
 
 
